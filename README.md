@@ -1,5 +1,4 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/0538Aritra?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/Aritra-Mondal?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/soumyajitnandi1?label=Follow&style=social)
 
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
