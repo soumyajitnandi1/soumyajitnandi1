@@ -3,6 +3,8 @@
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Soumyajit Nandi<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+  ![Twitter Follow](https://img.shields.io/twitter/follow/0538Aritra?label=Follow)
+![GitHub followers](https://img.shields.io/github/followers/Aritra-Mondal?label=Follow&style=social)
 <Br>
 <h1>About Me!</h1>
 
