@@ -11,7 +11,7 @@
   
 <h1>About Me!</h1>
 
-- 🏫: I'm a Undergraduate Prefinal year Computer Science and Engineering Student.
+- 🏫: I'm a Undergraduate final year Computer Science and Engineering Student.
   
 <hr>
 <Br>
