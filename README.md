@@ -30,8 +30,8 @@
 
   
 ### Tools and Languages:
-| [<img src="./data/JAVA.png" width="74">](https://www.java.com/) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/1499794874html5-js-css3-logo-png.png" width="74">](https://en.wikipedia.org/wiki/HTML) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/518px-Jupyter_logo.svg.png" alt="jupyter logo" width="54">](https://jupyter.org/) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/C%2B%2B.png" alt="C++ logo" width="54">](https://en.wikipedia.org/wiki/C%2B%2B) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/python-logo.png" alt="python logo" width="54">](https://www.python.org/) 
-|---|---|---|---|---|
+| [<img src="./data/JAVA.png" width="74">](https://www.java.com/) |  [<img src="./data/SPRING.png" width="74">](https://spring.io/) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/C%2B%2B.png" alt="C++ logo" width="54">](https://en.wikipedia.org/wiki/C%2B%2B) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/1499794874html5-js-css3-logo-png.png" width="74">](https://en.wikipedia.org/wiki/HTML) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/python-logo.png" alt="python logo" width="54">](https://www.python.org/) |  [<img src="./data/GIT.png" width="74">](https://git-scm.com/) |  [<img src="./data/oracle-database-logo.png" width="74">](https://www.oracle.com/in/database/) |  [<img src="https://github.com/Aritra-Mondal/Aritra-Mondal/blob/main/518px-Jupyter_logo.svg.png" alt="jupyter logo" width="54">](https://jupyter.org/) 
+|---|---|---|---|---|---|---|---|
   
  
 
