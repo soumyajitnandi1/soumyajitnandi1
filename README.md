@@ -11,7 +11,7 @@
   
 <h1>About Me!</h1>
 
-- 🏫: I'm a Undergraduate final year Computer Science and Engineering Student.
+- 🏫: I'm a Computer Science and Engineering graduate and an Aspiring Software Developer.
   
 <hr>
 <Br>
@@ -41,8 +41,10 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=soumyajitnandi1&show_icons=true&theme=merko)](https://github.com/Soumyajitnandi1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajitnandi1&layout=compact&theme=merko)](https://github.com/soumyajitnandi1/github-readme-stats)
-
+[![Soumyajit's github stats](https://github-readme-stats.vercel.app/api?username=soumyajitnandi1&show_icons=true&theme=merko)](https://github.com/Soumyajitnandi1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajitnandi1&layout=compact&theme=merko)](https://github.com/soumyajitnandi1/github-readme-stats)
+<br>
+<br>
+[![@soumyajitnandi1's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@soumyajitnandi1)
  
 <Br>
 <hr>
