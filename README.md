@@ -43,7 +43,7 @@
   
 [![Soumyajit's github stats](https://github-readme-stats.vercel.app/api?username=soumyajitnandi1&count_private=true&show_icons=true&theme=radical)](https://github.com/Soumyajitnandi1/github-readme-stats) 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajitnandi1&layout=compact&theme=merko)](https://github.com/soumyajitnandi1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajitnandi1&layout=compact&theme=merko&langs_count=10)](https://github.com/soumyajitnandi1/github-readme-stats)
 <br>
 <br>
 [![@soumyajitnandi1's Holopin board](https://holopin.io/api/user/board?user=soumyajitnandi1)](https://holopin.io/@soumyajitnandi1)
