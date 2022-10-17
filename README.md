@@ -11,7 +11,7 @@
   
 <h1>About Me!</h1>
 
-- 🏫: I'm a Computer Science and Engineering graduate and an Aspiring Software Developer.
+- 🏫: I'm a 2022 Computer Science and Engineering graduate and an Aspiring Software Developer.
   
 <hr>
 <Br>
